@@ -18,7 +18,9 @@ git clone https://github.com/IvanFeng1/frank-s-waste-wizardd.git
 cd frank-s-waste-wizardd
 
 npm i
+
 npm run dev
+
 should be running at http://localhost:3000
 
 ## Additional Information
