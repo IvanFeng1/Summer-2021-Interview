@@ -1,10 +1,11 @@
-## Repository: 
+## Repository:
 
 ```
-PLACE_REPO_LINK_HERE
+https://github.com/IvanFeng1/frank-s-waste-wizardd
+
 ```
 
-## Deployed App URL: 
+## Deployed App URL:
 
 ```
 PLACE_LINK_TO_ACCESS_APP
@@ -12,7 +13,13 @@ PLACE_LINK_TO_ACCESS_APP
 
 ## Run Instructions
 
-ADD_INSTRUCTIONS_ON_HOW_TO_RUN_YOUR_APP
+git clone https://github.com/IvanFeng1/frank-s-waste-wizardd.git
+
+cd frank-s-waste-wizardd
+
+npm i
+npm run dev
+should be running at http://localhost:3000
 
 ## Additional Information
 
